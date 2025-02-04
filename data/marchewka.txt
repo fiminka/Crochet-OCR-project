@@ -1,0 +1,253 @@
+shot0.png, KORZEŃ MARCHEWKI
+shot1.png, RI: 3 IN MR (3)
+shot2.png, RI: 3 IN MR (3)
+shot3.png, RI: 3 IN MR (3)
+shot4.png, RI: 3 IN MR (3)
+shot5.png, RI: 3 IN MR (3)
+shot6.png, R2: INC X3 (6)
+shot7.png, R2: INC X3 (6)
+shot8.png, R2: INC X3 (6)
+shot9.png, R2: INC X3 (6)
+shot10.png, R2: INC X3 (6)
+shot11.png, R2: INC X3 (6)
+shot12.png, R2: INC X3 (6)
+shot13.png, R2: INC X3 (6)
+shot14.png, R2: INC X3 (6)
+shot15.png, R2: INC X3 (6)
+shot16.png, R2: INC X3 (6)
+shot17.png, R2: INC X3 (6)
+shot18.png, R2: INC X3 (6)
+shot19.png, R3: SC IN EACH (6)
+shot20.png, R3: SC IN EACH (6)
+shot21.png, R3: SC IN EACH (6)
+shot22.png, R3: SC IN EACH (6)
+shot23.png, R3: SC IN EACH (6)
+shot24.png, R3: SC IN EACH (6)
+shot25.png, R3: SC IN EACH (6)
+shot26.png, R3: SC IN EACH (6)
+shot27.png, R4: (ISC, INC) X3 (9)
+shot28.png, R4: (ISC, INC) X3 (9)
+shot29.png, R4: (ISC, INC) X3 (9)
+shot30.png, R4: (ISC, INC) X3 (9)
+shot31.png, R4: (ISC, INC) X3 (9)
+shot32.png, R4: (ISC, INC) X3 (9)
+shot33.png, R4: (ISC, INC) X3 (9)
+shot34.png, R4: (ISC, INC) X3 (9)
+shot35.png, R4: (ISC, INC) X3 (9)
+shot36.png, R4: (ISC, INC) X3 (9)
+shot37.png, R5: SC IN EACH (9)
+shot38.png, R5: SC IN EACH (9)
+shot39.png, RS: SC IN EACH (9)
+shot40.png, R5: SC IN EACH (9)
+shot41.png, RS: SC IN EACH (9)
+shot42.png, R5: SC IN EACH (9)
+shot43.png, RS: SC IN EACH (9)
+shot44.png, RS: SC IN EACH (9)
+shot45.png, R5: SC IN EACH (9)
+shot46.png, R5: SC IN EACH (9)
+shot47.png, RS; SC IN EACH49)
+shot48.png, Ró: (2SC, INC) X3 (12)
+shot49.png, Ró: (2SC, INC) X3 (12)
+shot50.png, Ró: (2SC, INC) X3 (12)
+shot51.png, Ró: (2SC, INC) X3 (12)
+shot52.png, Ró: (2SC, INC) X3 (12)
+shot53.png, Ró: (2SC, INC) X3 (12)
+shot54.png, Ró: (2SC, INC) X3 (12)
+shot55.png, Ró: (2SC, INC) X3 (12)
+shot56.png, Ró: (2SC, INC) X3 (12)
+shot57.png, Ró: (2SC, INC) X3 (12)
+shot58.png, Ró: (2SC, INC) X3 (12)
+shot59.png, Ró: (2SC, INC) X3 (12)
+shot60.png, R7: SC IN EACH (12)
+shot61.png, R7: SC IN EACH (12)
+shot62.png, R7: SC IN EACH (12)
+shot63.png, R7: SC IN EACH (12)
+shot64.png, R7: SC IN EACH (12)
+shot65.png, R7: SC IN EACH (12)
+shot66.png, R7: SC IN EACH (12)
+shot67.png, R7: SC IN EACH (12)
+shot68.png, R7: SC IN EACH (12)
+shot69.png, RZ: SC IN EACH (12)
+shot70.png, R8: (3SC, INC) X3 (15)
+shot71.png, R8: (3SC, INC) X3 (15)
+shot72.png, R8: (3SC, INC) X3 (15)
+shot73.png, R8: (3SC, INC) X3 (15)
+shot74.png, R8: (3SC, INC) X3 (15)
+shot75.png, R8: (3SC, INC) X3 (15)
+shot76.png, R8: (3SC, INC) X3 (15)
+shot77.png, R8: (3SC, INC) X3 (15)
+shot78.png, R8: (3SC, INC) X3 (15)
+shot79.png, R8: (3SC, INC) X3 (15)
+shot80.png, R8: (3SC, INC) X3 (15)
+shot81.png, R8: (3SC, INC) X3 (15)
+shot82.png, R9: SC IN EACH (15)
+shot83.png, R9: SC IN EACH (15)
+shot84.png, R9: SC IN EACH (15)
+shot85.png, R9: SC IN EACH (15)
+shot86.png, R9: SC IN EACH (15)
+shot87.png, R9: SC IN EACH (15)
+shot88.png, R9: SC IN EACH (15)
+shot89.png, R9: SC IN EACH (15)
+shot90.png, R9: SC IN EACH (15)
+shot91.png, R9: SC IN EACH (15)
+shot92.png, R9: SC IN EACH (15)
+shot93.png, R9: SC IN EACH (15)
+shot94.png, R9: SC IN EACH (15)
+shot95.png, R9: SC IN EACH (15)
+shot96.png, ZAKAŃCZAMY SLST
+shot97.png, ZAKAŃCZAMY SLST
+shot98.png, ZAKAŃCZAMY SLST
+shot99.png, WYPYCHAMY MARCHEWKĘ
+shot100.png, WYPYCHAMY MARCHEWKĘ
+shot101.png, WYPYCHAMY MARCHEWKĘ
+shot102.png, 5 S WYPYCHAMY MARCHEWKĘ
+shot103.png, WYPYCHAMY MARCHEWKĘ
+shot104.png, WYPYCHAMY MARCHEWKĘ
+shot105.png, WYPYCHAMY MARCHEWKĘ
+shot106.png, WYPYCHAMY MARCHEWKĘ
+shot107.png, WYPYCHAMY MARCHEWKĘ
+shot108.png, U;  WYPYCHAMY MARCHEWKĘ
+shot109.png, WYPYCHAMY MARCHEWKĘ
+shot110.png, WYPYCHAMY MARCHEWKĘ
+shot111.png, WYPYCHAMY MARCHEWKĘ
+shot112.png, BIERZEMY IGŁĘ | ZAMYKAMY DZIURĘ
+shot113.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot114.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot115.png, BIERZEMY IGŁĘ ! ZAMYKAMY DZIURĘ
+shot116.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot117.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot118.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot119.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot120.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot121.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot122.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot123.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot124.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot125.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot126.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot127.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot128.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot129.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot130.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot131.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot132.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot133.png, BIERZEMY IGŁĘ ZAMYKAMY DZIURĘ
+shot134.png, ZABEZPIECZAMY
+shot135.png, ZABEZPIECZAMY
+shot136.png, CHOWAMY NITKĘ
+shot137.png, CHOWAMY NITKĘ
+shot138.png, LISTKI WERSJA 1 X2
+shot139.png, RI: 3 IN MR (3)
+shot140.png, RI: 3 IN MR (3)
+shot141.png, RI: 3 IN MR (3)
+shot142.png, RI: 3 IN MR (3)
+shot143.png, RI: 3 IN MR (3)
+shot144.png, RI: 3 IN MR (3)
+shot145.png, RI: 3 IN MR (3)
+shot146.png, R2: ISC, INC, ISC (4)
+shot147.png, R2: ISC, INC, ISC (4)
+shot148.png, R2: ISC, INC, ISC (4)
+shot149.png, R2: ISC, INC, ISC (4)
+shot150.png, R2: ISC, INC, ISC (4)
+shot151.png, R2: ISC, INC, ISC (4)
+shot152.png, R2: ISC, INC, ISC (4)
+shot153.png, R2: ISC, INC, ISC (4)
+shot154.png, R2: ISC, INC, ISC (4)
+shot155.png, R3-5: SC IN EACH (4)
+shot156.png, R3-5: SC IN EACH (4)
+shot157.png, R3-5: SC IN EACH (4)
+shot158.png, R3-5: SC IN EACH (4)
+shot159.png, R3-5: SC IN EACH (4)
+shot160.png, R3-5: SC IN EACH (4)
+shot161.png, R3-5: SC IN EACH (4)
+shot162.png, R3-5: SC IN EACH (4)
+shot163.png, R3-5: SC IN EACH (4)
+shot164.png, R3-5: SC IN EACH (4)
+shot165.png, R3-5: SC IN EACH (4)
+shot166.png, R3-5: SC IN EACH (4)
+shot167.png, R3-5: SC IN EACH (4)
+shot168.png, R3-5: SC IN EACH (4)
+shot169.png, R3-5: SC IN EACH (4)
+shot170.png, R3-5: SC IN EACH (4)
+shot171.png, R3-5: SC IN EACH (4)
+shot172.png, R3-5: SC IN EACH (4)
+shot173.png, R3-5: SC IN EACH (4)
+shot174.png, R3-5: SC IN EACH (4)
+shot175.png, R3-5: SC IN EACH (4)
+shot176.png, R3-5: SC IN EACH (4)
+shot177.png, R3-5: SC IN EACH (4)
+shot178.png, R3-5: SC IN EACH (4)
+shot179.png, R3-5: SC IN EACH (4)
+shot180.png, R3-5: SC IN EACH (4)
+shot181.png, R3-5: SC IN EACH (4)
+shot182.png, R3-5: SC IN EACH (4)
+shot183.png, R3-5: SC IN EACH (4)
+shot184.png, R3-5: SC IN EACH (4)
+shot185.png, R3-5: SC IN EACH (4)
+shot186.png, R3-5: SC IN EACH (4)
+shot187.png, R3-5: SC IN EACH (4)
+shot188.png, R3-5: SC IN EACH (4)
+shot189.png, R3-5: SC IN EACH (4)
+shot190.png, R3-5: SC IN EACH (4)
+shot191.png, R3-5: SC IN EACH (4)
+shot192.png, R3-5: SC IN EACH (4)
+shot193.png, R3-5: SC IN EACH (4)
+shot194.png, R3-5: SC IN EACH (4)
+shot195.png, p ZAKAŃCZAMY SLST
+shot196.png, p ZAKAŃCZAMY SLST
+shot197.png, p ZAKAŃCZAMY SLST
+shot198.png, p ZAKAŃCZAMY SLST
+shot199.png, 9
+shot200.png, p
+shot201.png, 0
+shot202.png, LISTKI WERSJA 2 X3
+shot203.png, LISTKI WERSJA 2 X3
+shot204.png, CH 5
+shot205.png, CH 5
+shot206.png, CH 5
+shot207.png, CH 5
+shot208.png, CH 5
+shot209.png, CH 5
+shot210.png, CH 5
+shot211.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot212.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot213.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot214.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot215.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot216.png, WBIJAMY SIE W 2 OCZKO OD SZYDEŁKA WYKONUJEMY 4 SC
+shot217.png, UCINAMY DŁUŻSZĄ NITKĘ
+shot218.png, UCINAMY DŁUŻSZĄ NITKĘ
+shot219.png, UCINAMY DŁUŻSZĄ NITKĘ
+shot220.png, ZABEZPIECZAMY DWOMA SUPEŁKAMI
+shot221.png, ZABEZPIECZAMY DWOMA SUPEŁKAMI
+shot222.png, ZABEZPIECZAMY DWOMA SUPEŁKAMI
+shot223.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot224.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot225.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot226.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot227.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot228.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot229.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot230.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot231.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot232.png, ZSZYWAMY WSZYSTKIE ELEMENTY
+shot233.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot234.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot235.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot236.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot237.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot238.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot239.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot240.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot241.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot242.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot243.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot244.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot245.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot246.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot247.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot248.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot249.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot250.png, OPCJONALNIE MOŻNA WYHAFTOWAĆ KRESKI CIEŃSZĄ NITKĄ
+shot251.png, GOTOWA!
+shot252.png, GOTOWAI

@@ -1,0 +1,32 @@
+korzeń marchewki
+r1: 3 in mr (3)
+r2: inc x3 (6)
+r3: sc in each (6)
+r4: (sc, inc) x3 (9)
+r5: sc in each (9)
+r6: (2sc, inc) x3 (12)
+r7: sc in each (12)
+r2: sc in each (12)
+r8: (3sc, inc) x3 (15)
+r9: sc in each (15)
+zakańczamy slst
+wypychamy marchewkę
+5 s wypychamy marchewkę
+wypychamy marchewkę
+bierzemy igłę zamykamy dziurę
+zabezpieczamy
+chowamy nitkę
+listki wersja 1 x2
+r1: 3 in mr (3)
+r2: sc, inc, sc (4)
+r3-5: sc in each (4)
+p zakańczamy slst
+p
+listki wersja 2 x3
+ch 5
+wbijamy sie w 2 oczko od szydełka wykonujemy 4 sc
+ucinamy dłuższą nitkę
+zabezpieczamy dwoma supełkami
+zszywamy wszystkie elementy
+opcjonalnie można wyhaftować kreski cieńszą nitką
+gotowa!

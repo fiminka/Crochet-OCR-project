@@ -1,0 +1,927 @@
+fox1_shot_0.png,ose
+fox1_shot_11.png,First leg only: close with sl st
+fox1_shot_25.png,Crochet 2nd
+fox1_shot_26.png,the
+fox1_shot_27.png,same as the 1st
+fox1_shot_28.png,(Don't close with sl st or cut the
+fox1_shot_29.png,yarn)
+fox1_shot_52.png,Crochet 2nd
+fox1_shot_53.png,the
+fox1_shot_54.png,same as the 1st
+fox1_shot_55.png,(Don't close with sl st or
+fox1_shot_56.png,the
+fox1_shot_57.png,yarn)
+fox1_shot_58.png,cut
+fox1_shot_74.png,Ch 3 after R7, join to 1st
+fox1_shot_75.png,with SC (mark this st
+fox1_shot_76.png,it's the 1st st of R1 of belly)
+fox1_shot_77.png,leg
+fox1_shot_95.png,Ch 3 after R7, join to 1st
+fox1_shot_96.png,with SC (mark this st
+fox1_shot_97.png,it's the 1st st of R1 of belly)
+fox1_shot_98.png,leg
+fox1_shot_114.png,Ch 3 after R7, join to 1st
+fox1_shot_115.png,with SC (mark this st
+fox1_shot_116.png,it's the 1st st of R1 of belly)
+fox1_shot_117.png,leg
+fox1_shot_130.png,US G/ 4.5mm crochet hook
+fox1_shot_131.png,Scissors
+fox1_shot_132.png,Yarn needle
+fox1_shot_133.png,12-15mm safety eyes
+fox1_shot_134.png,Stitch markers & pins
+fox1_shot_135.png,Poly
+fox1_shot_152.png,R1: 36 SC
+fox1_shot_153.png,15SC in 1st leg, 3SC in ch3, 15SC in 2nd leg, 3SC in
+fox1_shot_154.png,ch3)
+fox1_shot_171.png,R1: 36 SC
+fox1_shot_172.png,(15SC in 1st leg, 3SC in ch3, 15SC in 2nd leg, 3SC in
+fox1_shot_173.png,ch3)
+fox1_shot_197.png,R1: 36 SC
+fox1_shot_198.png,(15SC in 1st leg, 3SC in ch3 , 15SC in 2nd leg, 3SC in
+fox1_shot_199.png,ch3)
+fox1_shot_221.png,R1: 36 SC
+fox1_shot_222.png,(15SC in 1st leg, 3SC in ch3, 15SC in 2nd
+fox1_shot_223.png,3SC in
+fox1_shot_224.png,ch3)
+fox1_shot_225.png,leg,
+fox1_shot_243.png,R1: 36 SC
+fox1_shot_244.png,(15SC in 1st
+fox1_shot_245.png,3SC in ch3
+fox1_shot_246.png,15SC in 2nd
+fox1_shot_247.png,3SC in
+fox1_shot_248.png,ch3)
+fox1_shot_249.png,leg,
+fox1_shot_250.png,leg,
+fox1_shot_268.png,R1: 36 SC
+fox1_shot_269.png,(15SC in 1st
+fox1_shot_270.png,3SC in ch3, 15SC in 2nd leg, 3SC in
+fox1_shot_271.png,ch3)
+fox1_shot_272.png,leg
+fox1_shot_290.png,R1: 36 SC
+fox1_shot_291.png,(15SC in 1st
+fox1_shot_292.png,SSC in ch3, 15SC in 2nd
+fox1_shot_293.png,3SC in
+fox1_shot_294.png,ch3)
+fox1_shot_295.png,leg,
+fox1_shot_296.png,leg,
+fox1_shot_311.png,R1: 36 SC
+fox1_shot_312.png,15SC in 1st
+fox1_shot_313.png,3SC in ch3, 15SC in 2nd leg, 3SC in
+fox1_shot_314.png,ch3)
+fox1_shot_315.png,leg,
+fox1_shot_336.png,R1: 3
+fox1_shot_337.png,(15SC in
+fox1_shot_338.png,leg, 3SC in ch3, 15SC in 2nd
+fox1_shot_339.png,3SC in
+fox1_shot_340.png,ch3)
+fox1_shot_341.png,leg,
+fox1_shot_364.png,R1: 36 SC
+fox1_shot_365.png,(15SC in 1st
+fox1_shot_366.png,3SC
+fox1_shot_367.png,ch3,
+fox1_shot_368.png,15SC in 2nd leg, 3SC in
+fox1_shot_369.png,ch3)
+fox1_shot_370.png,leg,
+fox1_shot_394.png,US G/ 4.5mm crochet hook
+fox1_shot_395.png,Scissors
+fox1_shot_396.png,Yarn needle
+fox1_shot_397.png,12-15mm safety eyes
+fox1_shot_398.png,Stitch markers & pins
+fox1_shot_399.png,Poly
+fox1_shot_405.png,R2: (5SC, inc) x 6 (42)
+fox1_shot_411.png,R2: (5SC, inc) x 6 (42)
+fox1_shot_422.png,R2: (5SC, inc) x 6 (42)
+fox1_shot_428.png,Sew holes betwee
+fox1_shot_447.png,Sew holes between legs closed
+fox1_shot_454.png,R3-7: 42SC
+fox1_shot_464.png,R3-7: 42SC
+fox1_shot_470.png,R8: (5SC, dec) x 6 (36)
+fox1_shot_476.png,Magic Ring
+fox1_shot_477.png,Chain Stitch
+fox1_shot_478.png,Single Crochet
+fox1_shot_479.png,Increase
+fox1_shot_480.png,Slip Stitch
+fox1_shot_481.png,Decrease
+fox1_shot_486.png,R8: (5SC, dec) x 6 (36)
+fox1_shot_493.png,R8: (5SC, dec) x 6 (36)
+fox1_shot_503.png,R8: (5SC dec) x
+fox1_shot_508.png,R10: (4SC, dec) x
+fox1_shot_518.png,R10: (4SC dec) x 6 (30)
+fox1_shot_523.png,R10: (4SC, dec) x 6
+fox1_shot_528.png,R10: (4SC, dec) x 6 (30)
+fox1_shot_533.png,R11: 30SC
+fox1_shot_538.png,Stuff legs
+fox1_shot_543.png,Stuff legs
+fox1_shot_548.png,R1: 6 SC in a MR
+fox1_shot_553.png,R12: (3
+fox1_shot_554.png,dec) x 6 (24)
+fox1_shot_561.png,R13: (2SC, dec) x 6 (18)
+fox1_shot_566.png,R13: (2SC, dec
+fox1_shot_567.png,6 (18)
+fox1_shot_573.png,R14: (SC, dec) x 6 (12)
+fox1_shot_578.png,R14: (SC, dec) x 6 (12)
+fox1_shot_584.png,R14:
+fox1_shot_585.png,dec) x 6
+fox1_shot_599.png,R14:(SC, dec) x 6 (12)
+fox1_shot_604.png,Colour change to white
+fox1_shot_609.png,R1: 6 SC in a MR
+fox1_shot_614.png,R15: 12 SC
+fox1_shot_619.png,R15: 12 SC
+fox1_shot_624.png,R16: 12 inc (24)
+fox1_shot_629.png,R16: 12 inc (24)
+fox1_shot_634.png,R17: (SC, inc) x 12 (36)
+fox1_shot_639.png,R17: (SC, inc) x 12 (36)
+fox1_shot_644.png,R18: (5SC, inc) x 6 (42)
+fox1_shot_649.png,R18: (5SC, inc) x 6 (42)
+fox1_shot_654.png,R19: (6SC, inc) x 6 (48)
+fox1_shot_659.png,R19: (6SC, inc) x 6 (48)
+fox1_shot_664.png,R1: 6 SC in a MR
+fox1_shot_669.png,R20-21: 48SC
+fox1_shot_674.png,R20-21: 48SC
+fox1_shot_679.png,Colour change to orange
+fox1_shot_684.png,Colour change to orange
+fox1_shot_689.png,R22-24: 48SC
+fox1_shot_696.png,R25: (6SC dec)
+fox1_shot_697.png,6 (42)
+fox1_shot_703.png,R25: (6SC, dec) x 6 (42)
+fox1_shot_708.png,R25: (6SC dec) x
+fox1_shot_721.png,R1: 6 SC in a MR
+fox1_shot_727.png,R26: (5SC, dec) x 6 (36)
+fox1_shot_732.png,Attach eyes between R22 and R23,
+fox1_shot_733.png,8 sts apart
+fox1_shot_740.png,Attach eyes between R22 and R23,
+fox1_shot_741.png,8 sts apart
+fox1_shot_752.png,Attach eyes between
+fox1_shot_753.png,nd R23
+fox1_shot_754.png,8 sts apart
+fox1_shot_759.png,R27: (4SC, dec) x 6 (30)
+fox1_shot_764.png,R27: (4SC, dec) x 6 (30)
+fox1_shot_769.png,R27: (4SC, dec) x 6 (30)
+fox1_shot_774.png,R28: (3SC, dec) x 6 (24)
+fox1_shot_779.png,R28: (3SC, dec) x 6 (24)
+fox1_shot_784.png,R29:
+fox1_shot_785.png,dec X 6 (18)
+fox1_shot_791.png,R2: 6 inc (12)
+fox1_shot_795.png,R30: (SC, dec) x 6 (12)
+fox1_shot_800.png,C, dec)
+fox1_shot_801.png,6 (12)
+fox1_shot_810.png,R31: 6 dec (6)
+fox1_shot_815.png,R2: 6 inc (12)
+fox1_shot_827.png,R2: 6 inc (12)
+fox1_shot_832.png,R2: 6 inc (12)
+fox1_shot_844.png,R3: (3SC, inc) x 3 (15)
+fox1_shot_849.png,R3: (3SC, inc) x 3 (15)
+fox1_shot_861.png,R3: (3SC, inc) x 3 (15)
+fox1_shot_866.png,R3: (3SC, inc) x 3 (15)
+fox1_shot_871.png,Chunky/ super chunky plush yarn
+fox1_shot_872.png,Orange
+fox1_shot_873.png,white
+fox1_shot_874.png,Medium weight yarn
+fox1_shot_875.png,Black (eyebrows nose), white (behind eyes)
+fox1_shot_876.png,Yarn used in this tutorial: Hobbii Baby Snuggle in Burnt Orange
+fox1_shot_877.png,White
+fox1_shot_878.png,and
+fox1_shot_883.png,R4-7: 15 SC
+fox1_shot_888.png,R4-7: 15 SC
+fox1_shot_900.png,R4-7: 15 SC
+fox1_shot_905.png,R4-7: 15 SC
+fox2_shot_5.png,R1: 4 SC in a MR
+fox2_shot_10.png,R1: 4 SC in a MR
+fox2_shot_15.png,R2: 4 inc
+fox2_shot_20.png,R2: 4 inc (8)
+fox2_shot_27.png,R2: 4 inc (8)
+fox2_shot_33.png,R3: (SC, inc) x 4
+fox2_shot_34.png,(12
+fox2_shot_41.png,R1: 6 SC in a MR
+fox2_shot_47.png,R4: (2 SC, inc) x 4 (16)
+fox2_shot_53.png,R4: (2 SC, inc)
+fox2_shot_54.png,(16)
+fox2_shot_61.png,R4: (2 SC, inc) x 4 (16)
+fox2_shot_66.png,R5: (3 SC, inc) x 4 (20)
+fox2_shot_73.png,R5: (3 SC, inc)
+fox2_shot_78.png,R6: 20 SC (20)
+fox2_shot_83.png,R6: 20 SC (20)
+fox2_shot_88.png,R1: 4SC in a MR
+fox2_shot_93.png,R1: 4SC in a MR
+fox2_shot_98.png,R2: 4 inc (8)
+fox2_shot_103.png,R1: 6 SC in a MR
+fox2_shot_108.png,R3: 8 SC
+fox2_shot_113.png,R3: 8 SC
+fox2_shot_118.png,R4: (SC, inc) x 4
+fox2_shot_123.png,R4: (SC, inc) x 4 (12)
+fox2_shot_133.png,R4: (SC, inc) x 4 (12)
+fox2_shot_139.png,Colour change to orange
+fox2_shot_144.png,R5-8: 12 SC
+fox2_shot_149.png,R5-8: 12 S
+fox2_shot_154.png,R2: 6 inc (12)
+fox2_shot_159.png,R9: (SC, dec)
+fox2_shot_164.png,R10: (2SC, dec) x 2 (6)
+fox2_shot_169.png,R10: (2SC, dec) x 2 (6)
+fox2_shot_174.png,Assembly
+fox2_shot_179.png,SUBSCRIBED
+fox2_shot_183.png,ROSEANDLILYAMIGURUMI.COM
+fox2_shot_188.png,R2: 6 inc (12)
+fox2_shot_198.png,R3: (SC, inc) x 6 (18)
+fox2_shot_203.png,R3: (SC, inc) x 6 (18)
+fox2_shot_213.png,R4: 18SC
+fox2_shot_218.png,R4: 18SC
+fox2_shot_228.png,R1: 6 SC in a MR
+fox2_shot_233.png,R1: 6 SC in a MR
+fox2_shot_238.png,Muzzle
+fox2_shot_239.png,Arms
+fox2_shot_240.png,Ears
+fox2_shot_241.png,Tail
+fox2_shot_242.png,Assembly
+fox2_shot_243.png,Finishing det
+fox2_shot_248.png,R2: 6 inc (12)
+fox2_shot_253.png,R3: 12 SC
+fox2_shot_258.png,R3: 12 SC
+fox2_shot_263.png,Colour change to orange
+fox2_shot_268.png,Colour change to oran
+fox2_shot_273.png,R4: (2SC, dec) x 3 (9)
+fox2_shot_278.png,R4: (2SC, dec) x 3 (9)
+fox2_shot_283.png,R5-8: 9 SC
+jamnik1_shot_0.png,Rose &
+jamnik1_shot_1.png,Amigurumi
+jamnik1_shot_15.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik1_shot_20.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik1_shot_31.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik1_shot_36.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik1_shot_47.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik1_shot_53.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc
+jamnik1_shot_54.png,9 SC (27)
+jamnik1_shot_60.png,Magic Ring
+jamnik1_shot_61.png,Increase
+jamnik1_shot_62.png,Single Crochet
+jamnik1_shot_63.png,Decrease (invisible & standard)
+jamnik1_shot_64.png,Slip Stitch
+jamnik1_shot_65.png,Half Double Crochet
+jamnik1_shot_66.png,Chain Stitch
+jamnik1_shot_67.png,Back loops only
+jamnik1_shot_68.png,Note: We'll be using thel
+jamnik1_shot_69.png,invisible decrease
+jamnik1_shot_70.png,throughout the pattern,
+jamnik1_shot_71.png,except for on the legs,
+jamnik1_shot_72.png,Here we will use
+jamnik1_shot_73.png,standard decrease!
+jamnik1_shot_78.png,Inc, 4 SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_83.png,R11: Inc, 4 SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_101.png,R11: Inc, 4 SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_106.png,R11: Inc, 4 SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_124.png,R11: Inc, 4 SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_129.png,R1
+jamnik1_shot_130.png,Inc, SC, (SC, inc) x 4, 4 SC, inc, 9 SC (33)
+jamnik1_shot_149.png,R12: Inc, (5 SC, inc) x 4, 8 SC (38)
+jamnik1_shot_154.png,R12: Inc, (5 SC, inc) x 4, 8 SC (38)
+jamnik1_shot_172.png,R12: Inc
+jamnik1_shot_173.png,(5 SC, inc) x 4, 8 SC (38)
+jamnik1_shot_179.png,R12: In
+jamnik1_shot_180.png,(5 SC, inc) x 4, 8 SC (38)
+jamnik1_shot_188.png,Magic Ring
+jamnik1_shot_189.png,Increase
+jamnik1_shot_190.png,Single Crochet
+jamnik1_shot_191.png,Decrease (invisible & standard)
+jamnik1_shot_192.png,Slip Stitch
+jamnik1_shot_193.png,Half Double Crochet
+jamnik1_shot_194.png,Chain Stitch
+jamnik1_shot_195.png,Back loops only
+jamnik1_shot_196.png,Note: We'll be using the
+jamnik1_shot_197.png,invisible decrease
+jamnik1_shot_198.png,throughout the pattern
+jamnik1_shot_199.png,except for on the legs.
+jamnik1_shot_200.png,Here we will use
+jamnik1_shot_201.png,standard decrease!
+jamnik1_shot_207.png,R13: (6 SC, inc) x 4, 10 SC (42)
+jamnik1_shot_214.png,R13:
+jamnik1_shot_215.png,6 SC, inc) x 4, 10 SC (42)
+jamnik1_shot_235.png,R13: (6 SC, inc) x 4, 10 SC (42)
+jamnik1_shot_242.png,R13: (6 SC, inc) x 4, 10 SC (42)
+jamnik1_shot_264.png,R14-18: 42 SC (5 rounds of 42)
+jamnik1_shot_270.png,Attach eyes: Between R12 and R13
+jamnik1_shot_271.png,15 or 16 sts
+jamnik1_shot_272.png,apart
+jamnik1_shot_293.png,Attach eyes: Between R12 and R13
+jamnik1_shot_294.png,15 or 16 sts
+jamnik1_shot_303.png,Attach eyes: Between R12 and R13, 15 or 16 sts
+jamnik1_shot_304.png,apart
+jamnik1_shot_314.png,R1: 6 SC in a MR
+jamnik1_shot_324.png,R19: (5 SC, dec) x 6 (36)
+jamnik1_shot_330.png,R19: (5 SC, dec) x 6 (36)
+jamnik1_shot_338.png,R19: (5 SC, dec) x 6 (36)
+jamnik1_shot_343.png,R19: (5 SC, dec) x 6 (36)
+jamnik1_shot_349.png,R19: (5 SC, dec) x
+jamnik1_shot_350.png,(36)
+jamnik1_shot_356.png,R20: (4 SC, dec) x 6 (30)
+jamnik1_shot_362.png,R20: (4 SC, dec) x 6 (30)
+jamnik1_shot_367.png,R20: (4 SC, dec) x 6 (30)
+jamnik1_shot_375.png,R20: (4 SC, dec) x 6 (30)
+jamnik1_shot_380.png,R21: (3 SC, dec) x 6 (24)
+jamnik1_shot_385.png,R1: 6 SC in a MR
+jamnik1_shot_390.png,R22: (2 SC, dec) x 6 (18)
+jamnik1_shot_395.png,R22: (2 SC, dec) x 6 (18)
+jamnik1_shot_400.png,R22: (2 SC, dec) x 6 (18)
+jamnik1_shot_406.png,R23: (SC, dec) x 6 (12)
+jamnik1_shot_411.png,R23: (SC, dec)
+jamnik1_shot_412.png,x 6 (12)
+jamnik1_shot_417.png,R23: (SC, dec) x 6 (12)
+jamnik1_shot_427.png,R24: 6 dec (6)
+jamnik1_shot_432.png,R24: 6 dec (6)
+jamnik1_shot_438.png,R1: 6 SC in a MR
+jamnik1_shot_443.png,R1: 6 SC in a MR
+jamnik1_shot_448.png,R1: 6 SC in a MR
+jamnik1_shot_453.png,R1: 6 SC in a MR
+jamnik1_shot_459.png,R2: 6 inc (12)
+jamnik1_shot_465.png,R2: 6 inc (12)
+jamnik1_shot_470.png,R2: 6 inc (12)
+jamnik1_shot_475.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_481.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_486.png,R3:
+jamnik1_shot_487.png,SC, inc) x 6 (18)
+jamnik1_shot_493.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_501.png,R1: 6 SC in a MR
+jamnik1_shot_506.png,R4: (2 SC, inc) x 6 (24)
+jamnik1_shot_511.png,R5: (3 SC, inc) x 6 (30)
+jamnik1_shot_516.png,R5: (3 SC, inc) x 6 (30)
+jamnik1_shot_522.png,R5: (3 SC, inc) x 6 (30)
+jamnik1_shot_527.png,R6: (4 SC, inc) x 6 (36)
+jamnik1_shot_532.png,R6: (4 SC, inc) x 6 (36)
+jamnik1_shot_538.png,R6: (4 SC, inc) x 6 (36)
+jamnik1_shot_542.png,R6: (4 SC, inc) x 6 (36)
+jamnik1_shot_551.png,R2: 6 inc (12)
+jamnik1_shot_559.png,R11:
+jamnik1_shot_560.png,0SC, dec) x 3 (33)
+jamnik1_shot_569.png,R11:
+jamnik1_shot_570.png,10S
+jamnik1_shot_571.png,dec) x 3 (33)
+jamnik1_shot_579.png,R11: (10SC, dec) x 3 (33)
+jamnik1_shot_585.png,R11: (10SC, dec) x 3 (33)
+jamnik1_shot_590.png,(10SC, dec) x 3 (33)
+jamnik1_shot_595.png,33 SC
+jamnik1_shot_600.png,R12: 33 SC
+jamnik1_shot_610.png,R12: 33 SC
+jamnik1_shot_615.png,R13: (9SC, dec) x 3 (30)
+jamnik1_shot_620.png,R13: (9SC, dec) x 3 (30)
+jamnik1_shot_625.png,R2: 6 inc (12)
+jamnik1_shot_630.png,R14: 30 SC
+jamnik1_shot_635.png,R14: 30 SC
+jamnik1_shot_640.png,R14: 30 SC
+jamnik1_shot_645.png,R15: (8SC, dec) x 3 (27)
+jamnik1_shot_651.png,(8SC, dec) x 3 (27)
+jamnik1_shot_656.png,R16: (7SC, dec) x 3 (24)
+jamnik1_shot_662.png,R16: (7SC, dec) x 3 (24)
+jamnik1_shot_667.png,R17: (2SC, dec) x 6 (18)
+jamnik1_shot_673.png,R17: (2SC, dec) x 6 (18)
+jamnik1_shot_678.png,R17:
+jamnik1_shot_679.png,SC, dec) x 6 (18)
+jamnik1_shot_687.png,Chunky/ super chunky plush yarn in colour of your choice
+jamnik1_shot_688.png,Medium weight black Yarn for nose/ mouth
+jamnik1_shot_689.png,Yarn used in this tutorial: Hobbii Baby Snuggle in Teddy Bear
+jamnik1_shot_690.png,2 x
+jamnik1_shot_691.png,100g skeins
+jamnik1_shot_696.png,R18: 18 SC
+jamnik1_shot_701.png,R18: 18 SC
+jamnik1_shot_707.png,R19: (4SC, dec) x 3 (15)
+jamnik1_shot_716.png,R19: (4SC, dec) x 3 (15)
+jamnik1_shot_723.png,R19: (4SC, dec) x 3 (15)
+jamnik1_shot_732.png,R20-22: 15 SC (3 rounds of 15)
+jamnik1_shot_738.png,R20-22: 15 SC
+jamnik1_shot_739.png,rounds of 15)
+jamnik1_shot_748.png,Fold the ear flat, and SC closed along the
+jamnik1_shot_749.png,top
+jamnik1_shot_758.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_768.png,Fold the ear flat; and SC closed along the top
+jamnik1_shot_778.png,roseandlilyamigurumi
+jamnik1_shot_784.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_791.png,R3: (SC, inc) x 6 (18)
+jamnik1_shot_796.png,R4: 18 SC
+jamnik1_shot_806.png,R4: 18 SC
+jamnik1_shot_811.png,R4: 18 SC
+jamnik1_shot_821.png,R5: (5 SC, inc) x 3 (21)
+jamnik1_shot_826.png,R5: (5 SC, inc) x 3 (21)
+jamnik1_shot_831.png,US G/ 4.5mm crochet hook
+jamnik1_shot_832.png,Scissors
+jamnik1_shot_833.png,Poly fill
+jamnik1_shot_834.png,Yarn needle
+jamnik1_shot_835.png,12mm safety eyes
+jamnik1_shot_836.png,Stitch markers
+jamnik1_shot_841.png,R6-9: 21 SC (4 rounds of 21)
+jamnik1_shot_846.png,R10: Inc, 3 SC, 4 inc, 3 SC, inc, 9 SC (27)
+jamnik2_shot_0.png,Rose &
+jamnik2_shot_1.png,Amigurumi
+jamnik2_shot_7.png,R5: Ch19
+jamnik2_shot_12.png,Starting in 2nd ch from hook (mark 1st st): Inc, 17 SC
+jamnik2_shot_18.png,Starting in 2nd ch from hook (mark 1st st): Inc, 17 SC
+jamnik2_shot_23.png,Starting in 2nd ch from hook (mark 1st st): Inc, 17 SC
+jamnik2_shot_29.png,Starting in 2nd ch from hook (mark 1st st): Inc, 17 SC
+jamnik2_shot_34.png,Starting in 2nd ch from hook (mark 1st st): Inc, 17 SC
+jamnik2_shot_39.png,Start with a long tail (it will be used to sew the head on later) ,
+jamnik2_shot_40.png,and make a slip knot
+jamnik2_shot_48.png,Sl st into next SC in neck (after stitch marker)
+jamnik2_shot_49.png,2 SC
+jamnik2_shot_50.png,(4 SC, inc) x 3
+jamnik2_shot_51.png,inc,
+jamnik2_shot_64.png,Sl st into next SC in neck (after stitch marker)
+jamnik2_shot_65.png,2 SC, inc, (4 SC, inc) x 3
+jamnik2_shot_80.png,Sl st into next SC in neck (after stitch marker)
+jamnik2_shot_81.png,2 SC,
+jamnik2_shot_82.png,(4 SC, inc) x 3
+jamnik2_shot_83.png,inc,
+jamnik2_shot_96.png,Sl st into next SC in neck (after stitch marker)
+jamnik2_shot_97.png,2 SC, inc, (4 SC, inc) x 3
+jamnik2_shot_105.png,Sl st into next SC in neck (after stitch marker)
+jamnik2_shot_106.png,2 SC, inc, (4 SC, inc) x 3
+jamnik2_shot_117.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_118.png,marker), inc 3SC in last st (64)
+jamnik2_shot_126.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_127.png,marker), inc, 3SC in last st (64)
+jamnik2_shot_136.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_137.png,marker), inc 3SC in last st (64)
+jamnik2_shot_145.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_146.png,marker), inc, 3SC in last st (64)
+jamnik2_shot_155.png,17 SC along back of ch (lhese start in 1st st after
+jamnik2_shot_156.png,marker), inc, 3SC in lasl s1 (64)
+jamnik2_shot_165.png,Ch 16
+jamnik2_shot_174.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_175.png,marker), inc, 3SC in last st (64)
+jamnik2_shot_184.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_185.png,marker), inc, 3SC in last st (64)
+jamnik2_shot_193.png,17 SC along back of ch (these start in 1st st after
+jamnik2_shot_194.png,marker), inc, 3SC in last st (64)
+jamnik2_shot_203.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_204.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_211.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_212.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_221.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_222.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_230.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_231.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_240.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_241.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_250.png,Ch 16
+jamnik2_shot_259.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_260.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_269.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_270.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_279.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_280.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_289.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_290.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_302.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_303.png,inc, HDC, HDC inc (68)
+jamnik2_shot_312.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_313.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_322.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_323.png,HDC inc, HDC, HD
+jamnik2_shot_324.png,inc
+jamnik2_shot_334.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_335.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_346.png,R6: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_347.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_356.png,86: HDC inc, HDC, HDC inc, 18 HDC, 22 SC, 18 HDC,
+jamnik2_shot_357.png,HDC inc, HDC, HDC inc (68)
+jamnik2_shot_368.png,R1: Join
+jamnik2_shot_369.png,SC to 1st ch to form a
+jamnik2_shot_370.png,(mark this stitch),
+jamnik2_shot_371.png,then 15 SC around (16)
+jamnik2_shot_372.png,with
+jamnik2_shot_373.png,ring
+jamnik2_shot_382.png,HDC inc, 2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_383.png,IDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_396.png,R7: HDC, inc 2 HDC,
+jamnik2_shot_397.png,HDC inc, 19 HDC, 22 SC, 19
+jamnik2_shot_398.png,HDC,
+jamnik2_shot_399.png,HDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_415.png,R7: HDC inc 2 HDC HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_416.png,HDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_431.png,R7: HDC inc
+jamnik2_shot_432.png,2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_433.png,HDC inc, 2 HDC HDC inc (72)
+jamnik2_shot_451.png,HDC inc, 19 HDC, 22 SC, 19
+jamnik2_shot_452.png,HDC,
+jamnik2_shot_453.png,inc
+jamnik2_shot_454.png,2HDC
+jamnik2_shot_455.png,DC inc (72)
+jamnik2_shot_474.png,R7: HDC inc, 2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_475.png,HDC inc 2 HDC HDC inc (72)
+jamnik2_shot_489.png,HDC inc
+jamnik2_shot_490.png,2 HDC,
+jamnik2_shot_491.png,HDC inc, 19 HDC 22 SC, 19 HDC,
+jamnik2_shot_492.png,inc, 2 HDC
+jamnik2_shot_493.png,HDC inc (72)
+jamnik2_shot_505.png,R7: HDC inc
+jamnik2_shot_506.png,2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_507.png,HDC inc
+jamnik2_shot_508.png,2 HDC, HDC inc (72)
+jamnik2_shot_523.png,R1: Join with SC to 1st ch to form a
+jamnik2_shot_524.png,(mark this stitch),
+jamnik2_shot_525.png,then 15 SC around (16)
+jamnik2_shot_526.png,Ring
+jamnik2_shot_537.png,R7: HDC inc, 2 HDC HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_538.png,HDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_550.png,R7: HDC inc 2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_551.png,HDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_567.png,R7: HDC inc
+jamnik2_shot_568.png,2 HDC,
+jamnik2_shot_569.png,HDC inc, 19 HDC, 22 SC, 19
+jamnik2_shot_570.png,HDC,
+jamnik2_shot_571.png,HDC inc, 2 HDC, HDC inc (72)
+jamnik2_shot_586.png,R7: HDC inc
+jamnik2_shot_587.png,2 HDC, HDC inc, 19 HDC, 22 SC, 19 HDC,
+jamnik2_shot_588.png,HDC inc 2 HDC, HDC inc (72)
+jamnik2_shot_603.png,R8-10: 72 SC (3 rounds of 72)
+jamnik2_shot_608.png,R8-10: 72 SC (3 rounds of 72)
+jamnik2_shot_620.png,R11: 4 SC, dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_621.png,SC (66)
+jamnik2_shot_631.png,R1J: 4 SC: dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_632.png,4 SC (66)
+jamnik2_shot_644.png,R11: 4 SC, dec; e0 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_645.png,4 SC (66)
+jamnik2_shot_656.png,R11: 4 SC
+jamnik2_shot_657.png,20 SC, dec, (4 SC, dec) x 3, 20 SC, dec,
+jamnik2_shot_658.png,4 SC (66)
+jamnik2_shot_669.png,R1: Join with SC to 1st ch to form a Ring (mark this stitch),
+jamnik2_shot_670.png,then 15 SC around (16)
+jamnik2_shot_680.png,R11: 4 SC, dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_681.png,4 SC (66)
+jamnik2_shot_693.png,R11: 4 SC, dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_694.png,4 SC (66)
+jamnik2_shot_708.png,R11:
+jamnik2_shot_709.png,SC, dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_718.png,1:4 SC, dec 20 SC, dec (4 SC, dec) x 3, 20 SC, dec
+jamnik2_shot_719.png,(66)
+jamnik2_shot_733.png,R11: 4 SC,
+jamnik2_shot_734.png,20 SC, dec, (4 SC, dec) x 3, 20 SC, dec,
+jamnik2_shot_735.png,SC (66)
+jamnik2_shot_745.png,R11: 4 SC, dec, 20 SC, dac, (4 SC, dec) x 20 SC, dec
+jamnik2_shot_746.png,4 SC (66)
+jamnik2_shot_760.png,R11: 4 SC, dec, 20 SC, dec, (4 SC, dec) x 3, 20 SC, dec 
+jamnik2_shot_761.png,4 SC (66)
+jamnik2_shot_766.png,R12: 66SC
+jamnik2_shot_771.png,R1: Join
+jamnik2_shot_772.png,SC to 1st ch to form a Ring (mark this stitch),
+jamnik2_shot_773.png,then 15 SC around (16)
+jamnik2_shot_774.png,with
+jamnik2_shot_780.png,R13: (SC, dec)
+jamnik2_shot_781.png,2, 19SC, dec, (SC, dec) x 4, 19 SC, dec
+jamnik2_shot_782.png,(SC, dec)
+jamnik2_shot_793.png,R13: (SC, dec) x 2, 19SC, dec, (SC, dec) x 4, 19 SC, dec
+jamnik2_shot_794.png,(SC, dec)
+jamnik2_shot_795.png,2 (56)
+jamnik2_shot_806.png,R13: (SC, dec) x 2, 19SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_807.png,(SC dec) x (56)
+jamnik2_shot_820.png,R13: (SC, dec) x 2, 19SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_821.png,(SC, dec) x 2 (56)
+jamnik2_shot_834.png,R13: (SC, dec) x 2, 9SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_835.png,(SC, dec) x 2 (56)
+jamnik2_shot_844.png,R13: (SC, dec)
+jamnik2_shot_845.png,x 2 19SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_846.png,(SC, dec) x (56)
+jamnik2_shot_856.png,3: (SC, dec) x 2, 19SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_857.png,dec) x 2 (56)
+jamnik2_shot_864.png,R13: (SC, dec) x 2, 19SC, dec, (SC, dec) x 4, 19 SC, dec,
+jamnik2_shot_865.png,(SC, dec) x 2 (56)
+jamnik2_shot_877.png,R13: (SC, dec) x 2, 19SC, dec, (SC, dec)
+jamnik2_shot_878.png,19 SC, dec,
+jamnik2_shot_879.png,(SC, dec) x 2 (56)
+jamnik2_shot_889.png,R13: (SC, dec) x
+jamnik2_shot_890.png,19SC, dec, (SC, dec)
+jamnik2_shot_891.png,4, 19 SC, dec
+jamnik2_shot_892.png,(SC, dec) x 2 (56)
+jamnik2_shot_905.png,R1: Join with SC to 1st ch to form a
+jamnik2_shot_906.png,(mark this stitch),
+jamnik2_shot_907.png,then 15 SC around (16)
+jamnik2_shot_908.png,Ring
+jamnik2_shot_916.png,R14: 3 dec, 20 SC, 4 dec, 20 SC, dec (48)
+jamnik2_shot_923.png,R14: 3 dec, 20 SC, 4 dec, 20 SC, dec (48)
+jamnik2_shot_932.png,R14: 3 dec, 20 SC, 4 dec, 20 SC
+jamnik2_shot_933.png,dec (48)
+jamnik2_shot_941.png,R14: 3 dec, 20 SC, 4 dec
+jamnik2_shot_942.png,20 SC, dec (48)
+jamnik2_shot_954.png,R14: 3 dec, 20 SC, 4 dec, 20 SC,
+jamnik2_shot_955.png,dec (48)
+jamnik2_shot_962.png,R14: 3 dec, 20 SC,
+jamnik2_shot_963.png,4 dec, 20 SC, dec (48)
+jamnik2_shot_975.png,14: 3 dec, 20 SC, 4 dec, 20 SC, dec (48)
+jamnik2_shot_987.png,R14: 3 dec, 20 SC, 4 dec, 20 SC
+jamnik2_shot_988.png,dec (48)
+jamnik2_shot_995.png,Make sl sts to get to very back
+jamnik2_shot_1004.png,oseandllilyamnigurumi.com
+jamnik2_shot_1013.png,R1: Join with SC to 1st ch to form a Ring (mark this stitch),
+jamnik2_shot_1014.png,then 15 SC around (16)
+jamnik2_shot_1031.png,R1: Join wit SC to 1st ch to form a
+jamnik2_shot_1032.png,(mark this stitch),
+jamnik2_shot_1033.png,then 15 SC around (16)
+jamnik2_shot_1034.png,Ring
+jamnik2_shot_1045.png,R1: Join with SC to 1st ch to form a
+jamnik2_shot_1046.png,(mark this stitch),
+jamnik2_shot_1047.png,then
+jamnik2_shot_1048.png,5 SC around (16)
+jamnik2_shot_1049.png,Ring
+jamnik2_shot_1058.png,R2-3: 16 SC (2 rounds of 16)
+jamnik2_shot_1063.png,Start with a long tail (it will be used to sew the head on later) ,
+jamnik2_shot_1064.png,and make a slip knot
+jamnik2_shot_1069.png,R2-3: 16 SC (2 rounds of 16)
+jamnik2_shot_1074.png,R4: (3 SC, inc) x 4 (20)
+jamnik2_shot_1080.png,R4: (3 SC, inc) x 4 (20)
+jamnik2_shot_1085.png,R4: (3 SC, inc) x 4 (20)
+jamnik2_shot_1091.png,R4: (3 SC, inc) x 4 (20)
+jamnik2_shot_1096.png,Sl st into the next st, move marker here
+jamnik3_shot_0.png,Rose &
+jamnik3_shot_1.png,Amigurumi
+jamnik3_shot_12.png,Work
+jamnik3_shot_13.png,in rows
+jamnik3_shot_14.png,3: Dec, SC, dec, turn
+jamnik3_shot_27.png,Work
+jamnik3_shot_28.png,in rows
+jamnik3_shot_29.png,3: Dec, 4 SC, dec, turn
+jamnik3_shot_39.png,4: Dec, 2 SC, dec
+jamnik3_shot_40.png,Work
+jamnik3_shot_41.png,in rows
+jamnik3_shot_54.png,4: Dec, 2 SC, dec
+jamnik3_shot_55.png,Work
+jamnik3_shot_56.png,in rows
+jamnik3_shot_67.png,R1: 4 SC in a MR
+jamnik3_shot_72.png,R1: 4 SC in a MR
+jamnik3_shot_77.png,R1: 7 SC in a MR
+jamnik3_shot_99.png,Don't tuck
+jamnik3_shot_100.png,R2-11: 4 SC (10 rounds of 4
+jamnik3_shot_101.png,away the yarn
+jamnik3_shot_102.png,or until you reach desired length)
+jamnik3_shot_103.png,tail from the
+jamnik3_shot_104.png,MR. We will
+jamnik3_shot_105.png,use it to curl
+jamnik3_shot_106.png,the tail later
+jamnik3_shot_139.png,Don't tuck
+jamnik3_shot_140.png,R2-11: 4 SC (10 rounds of 4
+jamnik3_shot_141.png,away the yarn
+jamnik3_shot_142.png,or until you reach desired length)
+jamnik3_shot_143.png,tail from the
+jamnik3_shot_144.png,MR. We will
+jamnik3_shot_145.png,use itto curl
+jamnik3_shot_146.png,the tail later
+jamnik3_shot_172.png,Don't tuck
+jamnik3_shot_173.png,R2-11: 4 SC (10 rounds of 4
+jamnik3_shot_174.png,away the yarn
+jamnik3_shot_175.png,or until you reach desired length)
+jamnik3_shot_176.png,tail from the
+jamnik3_shot_177.png,MR. We will
+jamnik3_shot_178.png,use it to curl
+jamnik3_shot_179.png,the tail later
+jamnik3_shot_204.png,Close with a sl st
+jamnik3_shot_209.png,Head  Detail
+jamnik3_shot_218.png,Face
+jamnik3_shot_219.png,Shaping
+jamnik3_shot_229.png,The camera
+jamnik3_shot_230.png,unfortunately went out
+jamnik3_shot_231.png,of focus for this section
+jamnik3_shot_244.png,The camera
+jamnik3_shot_245.png,unfortunately went out
+jamnik3_shot_246.png,for this section
+jamnik3_shot_247.png,focus
+jamnik3_shot_258.png,The camera
+jamnik3_shot_259.png,unfortunately went out
+jamnik3_shot_260.png,of focus for this section
+jamnik3_shot_273.png,The camera
+jamnik3_shot_274.png,unfortunately went out
+jamnik3_shot_275.png,of focus for this section
+jamnik3_shot_284.png,R2: 7 inc (14)
+jamnik3_shot_292.png,of legs: between R8 and R9
+jamnik3_shot_293.png,Top
+jamnik3_shot_302.png,Top of legs: between R8 and R9
+jamnik3_shot_307.png,Ears start 3 rounds behind eyes
+jamnik3_shot_324.png,oseandllilyamigurumi.co
+jamnik3_shot_329.png,R2: 7 inc (14)
+jamnik3_shot_335.png,R3: 14 SC in BLO
+jamnik3_shot_336.png,Back loops
+jamnik3_shot_346.png,R3: 14 SC in BLO
+jamnik3_shot_347.png,Back loops
+jamnik3_shot_356.png,R3: 14 SC in BLO
+jamnik3_shot_357.png,Back loops
+jamnik3_shot_367.png,R3: 14 SC in BLO
+jamnik3_shot_368.png,Back loops
+jamnik3_shot_373.png,R4-5: 14 SC rounds of 14)
+jamnik3_shot_378.png,R4-5: 14 SC rounds of 14)
+jamnik3_shot_384.png,Work
+jamnik3_shot_385.png,in rows
+jamnik3_shot_393.png,Work
+jamnik3_shot_394.png,in rows
+jamnik3_shot_407.png,Work
+jamnik3_shot_408.png,in rows
+jamnik3_shot_409.png,1: Dec, turn
+jamnik3_shot_422.png,R1: 7 SC in a MR
+jamnik3_shot_435.png,Work
+jamnik3_shot_436.png,in rows
+jamnik3_shot_437.png,2: Dec, 6 SC, dec, turn
+jamnik3_shot_450.png,Work
+jamnik3_shot_451.png,in rows
+jamnik3_shot_452.png,2: Dec, SC, dec, turn
+jamnik3_shot_464.png,Work
+jamnik3_shot_465.png,in rows
+jamnik3_shot_466.png,2: Dec, 6 dec, turn
+jamnik3_shot_480.png,Work
+jamnik3_shot_481.png,in rows
+jamnik3_shot_482.png,2: Dec, 6 SC, dec, turn
+jamnik3_shot_493.png,Work
+jamnik3_shot_494.png,in rows
+jamnik3_shot_495.png,2: Dec, 6 SC, dec. turn
+jamnik3_shot_508.png,Work
+jamnik3_shot_509.png,in rows
+jamnik3_shot_510.png,3: Dec, SC, dec, turn
+rabbit_shot_0.png,Rose & Lily
+rabbit_shot_1.png,AMIGURUMI DESIGN
+rabbit_shot_16.png,Join to 1st
+rabbit_shot_17.png,with a SC
+rabbit_shot_18.png,(This is R1 of belly)
+rabbit_shot_19.png,leg
+rabbit_shot_37.png,Join to 1st
+rabbit_shot_38.png,with a SC
+rabbit_shot_39.png,(This is R1 of belly)
+rabbit_shot_40.png,leg
+rabbit_shot_56.png,Join to 1st
+rabbit_shot_57.png,with a SC
+rabbit_shot_58.png,(This is R1 of belly)
+rabbit_shot_59.png,leg
+rabbit_shot_76.png,R1: 24 SC
+rabbit_shot_77.png,(12SC in 1st
+rabbit_shot_78.png,12SC in 2nd leg)
+rabbit_shot_79.png,leg
+rabbit_shot_95.png,R1: 24 SC
+rabbit_shot_96.png,(12SC in 1st
+rabbit_shot_97.png,12SC in 2nd leg)
+rabbit_shot_98.png,leg
+rabbit_shot_111.png,R1: 24 SC
+rabbit_shot_112.png,(12SC in 1st
+rabbit_shot_113.png,12SC in 2nd leg)
+rabbit_shot_114.png,leg
+rabbit_shot_127.png,Chunky plush yarn: main, white (tail), pink (nose), other (headband)
+rabbit_shot_128.png,Medium weight yarn: black (nose), white (eyes)
+rabbit_shot_129.png,hobbii
+rabbit_shot_146.png,R1: 24 SC
+rabbit_shot_147.png,(12SC in 1st
+rabbit_shot_148.png,12SC in 2nd leg)
+rabbit_shot_149.png,leg
+rabbit_shot_166.png,R1: 24 SC
+rabbit_shot_167.png,(12SC in 1st
+rabbit_shot_168.png,12SC in 2nd leg)
+rabbit_shot_169.png,leg
+rabbit_shot_181.png,R1: 24 SC
+rabbit_shot_182.png,(12SC in 1st
+rabbit_shot_183.png,12SC in 2nd leg)
+rabbit_shot_184.png,leg
+rabbit_shot_192.png,R2: (3SC, inc) x 6 (30)
+rabbit_shot_199.png,R2: (3SC, inc) x 6 (30)
+rabbit_shot_204.png,R2: (3SC, inc) x 6 (30)
+rabbit_shot_211.png,R2: (3SC, inc) x 6 (30)
+rabbit_shot_216.png,R3-7: 30 SC
+rabbit_shot_223.png,R3-7: 30 SC
+rabbit_shot_228.png,R8: (3SC, dec) x 6 (24)
+rabbit_shot_233.png,Chunky plush yarn: main, white (tail), pink (nose), other (headband)
+rabbit_shot_234.png,Medium weight yarn: black (nose), white (eyes)
+rabbit_shot_235.png,hobbii
+rabbit_shot_240.png,R8: (3SC, dec) x 6 (24)
+rabbit_shot_245.png,R8: (3SC, dec) x 6 (24)
+rabbit_shot_256.png,R8: (3SC, dec) x 6 (24)
+rabbit_shot_261.png,R9: 24SC
+rabbit_shot_271.png,R10: (2SC, dec) x 6 (18)
+rabbit_shot_276.png,R10: (2SC, dec) x 6 (18)
+rabbit_shot_287.png,R10: (2SC, dec) x 6 (18)
+rabbit_shot_292.png,R11: (SC, dec) x 6 (12)
+rabbit_shot_297.png,12mm safety eyes
+rabbit_shot_298.png,US
+rabbit_shot_299.png,4.25mm crochet hook
+rabbit_shot_300.png,Yarn needle
+rabbit_shot_301.png,Scissors
+rabbit_shot_302.png,Poly fill 
+rabbit_shot_303.png,Stitch markers
+rabbit_shot_308.png,R11: (SC, dec) x 6 (12)
+rabbit_shot_313.png,R11: (SC, dec) x 6 (12)
+rabbit_shot_324.png,R12: 12 SC
+rabbit_shot_332.png,R12: 12 SC
+rabbit_shot_344.png,R12: 12 SC
+rabbit_shot_349.png,R13: 12 inc (24)
+rabbit_shot_361.png,R13: 12 inc (24)
+rabbit_shot_366.png,R13: 12 inc (24)
+rabbit_shot_380.png,R14: (3 SC, inc) x 6 (30)
+rabbit_shot_385.png,R14: (3 SC, inc) x 6 (30)
+rabbit_shot_390.png,12mm safety eye
+rabbit_shot_391.png,US
+rabbit_shot_392.png,4.25mm
+rabbit_shot_393.png,crochet hoo
+rabbit_shot_394.png,Yarn needle
+rabbit_shot_395.png,Scissors
+rabbit_shot_396.png,Poly fill 
+rabbit_shot_397.png,Stitch
+rabbit_shot_398.png,markers
+rabbit_shot_403.png,R15-19: 30 SC
+rabbit_shot_408.png,R15-19: 30 SC
+rabbit_shot_420.png,Eyes: between R17 and R18
+rabbit_shot_421.png,4 sts apart
+rabbit_shot_427.png,Eyes: between R17 and R18, 4 sts apart
+rabbit_shot_438.png,Eyes: between R17 and R18, 4 sts apart
+rabbit_shot_443.png,R20: (3 SC, dec) x 6 (24)
+rabbit_shot_455.png,R20: (3 SC, dec) x 6 (24)
+rabbit_shot_461.png,R20: (3 SC, dec) x 6 (24)
+rabbit_shot_466.png,Magic Ring
+rabbit_shot_467.png,Single Crochet
+rabbit_shot_468.png,Slip stit
+rabbit_shot_469.png,Chain stitch
+rabbit_shot_470.png,Increase
+rabbit_shot_471.png,Invisible Decrease
+rabbit_shot_476.png,R21: (2 SC, dec) x 6 (18)
+rabbit_shot_481.png,R21: (2 SC, dec)
+rabbit_shot_491.png,R21: (2 SC, dec) x 6 (18)
+rabbit_shot_496.png,R22: (SC, dec) x 6 (12)
+rabbit_shot_507.png,R22: (SC, dec) X 6 (12)
+rabbit_shot_512.png,R22: (SC, dec) x 6 (12)
+rabbit_shot_523.png,R23: 6 dec
+rabbit_shot_528.png,R23: 6 dec (6)
+rabbit_shot_533.png,R23: 6 dec (6)
+rabbit_shot_539.png,R1: 6 SC in a MR
+rabbit_shot_544.png,R1: 6 SC in a MR
+rabbit_shot_549.png,R1: 6 SC in a MR
+rabbit_shot_554.png,R2-6: 6 SC
+rabbit_shot_559.png,R2-6: 6 SC
+rabbit_shot_564.png,R2-6: 6 SC
+rabbit_shot_569.png,R2-6: 6 SC
+rabbit_shot_574.png,R1: 6 SC in a MR
+rabbit_shot_579.png,R1: 6 SC in a MR
+rabbit_shot_584.png,R1: 6 SC in a MR
+rabbit_shot_591.png,R1: 6 SC in a MR
+rabbit_shot_596.png,R2: (2 SC, inc) x 2 (8)
+rabbit_shot_601.png,R2: (2 SC, inc) x 2 (8)
+rabbit_shot_606.png,R3: (2 SC, dec) x 2 (6)
+rabbit_shot_612.png,R3: (2 SC, dec) x 2 (6)
+rabbit_shot_617.png,R3: (2 SC, dec) x 2 (6)
+rabbit_shot_631.png,Thanks for
+rabbit_shot_632.png,watching
+rabbit_shot_633.png,parl
+rabbit_shot_643.png,R1: 6 SC in a MR
+rabbit_shot_650.png,R1: 6 SC in a MR
+rabbit_shot_655.png,R2: 6 inc (12)
+rabbit_shot_660.png,Chunky plush yarn: main, white (tail), pink (nose), other (headband)
+rabbit_shot_661.png,Medium weight yarn: black (nose), white (eyes)
+rabbit_shot_662.png,hobbii
+rabbit_shot_667.png,R2: 6 inc (12)
+rabbit_shot_672.png,R2: 6 inc (12)
+rabbit_shot_678.png,R3-5: 12SC
+rabbit_shot_683.png,R3-5: 12SC
+rabbit_shot_690.png,R3-5: 12SC
+rabbit_shot_695.png,1st leg only: close and cut yarn
+rabbit_shot_702.png,1st leg only: close and cut yarn
+rabbit_shot_709.png,1st
+rabbit_shot_710.png,only: close and cut yarn
+rabbit_shot_711.png,leg
+rabbit2_shot_0.png,Rose & Lily
+rabbit2_shot_1.png,AMIGURUMI DESIGN
+rabbit2_shot_7.png,R11: (6 SC, dec) x 3 (21)
+rabbit2_shot_12.png,R12: 21 SC
+rabbit2_shot_17.png,R12: 21 SC
+rabbit2_shot_22.png,R12: 21 SC
+rabbit2_shot_27.png,R12: 21 SC
+rabbit2_shot_32.png,R13: (5 SC, dec) x 3 (18)
+rabbit2_shot_37.png,R1: 6 SC in a MR
+rabbit2_shot_42.png,R13: (5 SC, dec) x 3 (18)
+rabbit2_shot_47.png,R14: 18 SC
+rabbit2_shot_52.png,R14: 18 SC
+rabbit2_shot_57.png,R14: 18 SC
+rabbit2_shot_62.png,R15: (4 SC, dec) x 3 (15)
+rabbit2_shot_67.png,R15: (4 SC, dec) x 3 (15)
+rabbit2_shot_72.png,R15: (4 SC, dec) x 3 (15)
+rabbit2_shot_77.png,R16-19: 15 SC
+rabbit2_shot_82.png,R20: (3 SC, dec) x 3 (12)
+rabbit2_shot_87.png,R20: (3 SC, dec) x 3 (12)
+rabbit2_shot_92.png,R1: 6 SC in a MR
+rabbit2_shot_97.png,R21-22: 12 SC
+rabbit2_shot_105.png,Fold flat, and SC closed along top
+rabbit2_shot_110.png,Fold flat, and SC closed along
+rabbit2_shot_111.png,top
+rabbit2_shot_116.png,SUBSCRIBED
+rabbit2_shot_126.png,Stuff before reaching end if desired
+rabbit2_shot_129.png,Slip knot, and ch 50
+rabbit2_shot_134.png,Slip knot, and ch 50
+rabbit2_shot_139.png,R2: 6 inc (12)
+rabbit2_shot_144.png,Slip knot, and ch 50
+rabbit2_shot_149.png,R1: Starting in 2nd ch from hook, sl st back along chain
+rabbit2_shot_154.png,R1: Starting in 2nd ch from hook, sl st back along chain
+rabbit2_shot_159.png,roseandlilyamigurumi.com
+rabbit2_shot_164.png,roseandlilyamigurumi.com
+rabbit2_shot_170.png,R2: 6 inc (12)
+rabbit2_shot_175.png,Ears
+rabbit2_shot_176.png,Assembly
+rabbit2_shot_177.png,Headband
+rabbit2_shot_182.png,R2: 6 inc (12)
+rabbit2_shot_187.png,R3: (SC, inc) x 6 (18)
+rabbit2_shot_194.png,R3: (SC, inc) x 6 (18)
+rabbit2_shot_199.png,R3: (SC, inc) x 6 (18)
+rabbit2_shot_206.png,R3: (SC, inc) x 6 (18)
+rabbit2_shot_211.png,R4: (2 SC, inc) x 6 (24)
+rabbit2_shot_218.png,R4: (2 SC, inc) x 6 (24)
+rabbit2_shot_223.png,R4: (2 SC, inc) x 6 (24)
+rabbit2_shot_228.png,R4: (2 SC, inc) x 6 (24)
+rabbit2_shot_233.png,R5-10: 24 SC
+rabbit2_shot_238.png,R1: 6 SC in a MR
+rabbit2_shot_243.png,R11: (6 SC, dec) x 3 (21)
+rabbit2_shot_248.png,R11: (6 SC, dec) x 3 (21)
+rabbit2_shot_253.png,R11: (6 SC, dec) x 3 (21)
+rabbit2_shot_258.png,R11: (6 SC, dec) x 3 (21)
+
