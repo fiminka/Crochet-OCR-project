@@ -78,23 +78,23 @@ The extracted text can be analyzed using `statistics.ipynb`, which provides:
 
 <table>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
         <a href=https://github.com/fiminka>
-            <img src=https://avatars.githubusercontent.com/u/81615393?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Wiktoria Fimińska/>
+            <img src=https://avatars.githubusercontent.com/u/81615393?v=4 width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Wiktoria Fimińska/>
             <br />
             <sub style="font-size:14px"><b>Wiktoria Fimińska</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
         <a href=https://github.com/AMysliwiec>
-            <img src=https://avatars.githubusercontent.com/u/82213599?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Alicja Myśliwiec/>
+            <img src=https://avatars.githubusercontent.com/u/82213599?v=4 width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt= Alicja Myśliwiec/>
             <br />
             <sub style="font-size:14px"><b>Alicja Myśliwiec</b></sub>
         </a>
     </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+    <td align="center" style="word-wrap: break-word; width: 200.0; height: 200.0">
         <a href=https://github.com/grzesiaaa>
-            <img src=https://avatars.githubusercontent.com/u/81617044?v=4v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Julia Grzegorzewska/>
+            <img src=https://avatars.githubusercontent.com/u/81617044?v=4v width="200;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Julia Grzegorzewska/>
             <br />
             <sub style="font-size:14px"><b>Julia Grzegorzewska</b></sub>
         </a>
